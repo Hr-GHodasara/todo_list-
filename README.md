@@ -1,2 +1,1 @@
-# todo_list-
-### 📝 **Short Description for GitHub**  A simple Python console-based To-Do List app that allows users to view, add, and remove tasks using a text menu. It runs in a loop until the user exits and uses a list to store tasks in memory. Ideal for beginners learning Python basics like loops, conditionals, and lists.
+ A simple Python console-based To-Do List app that allows users to view, add, and remove tasks using a text menu. It runs in a loop until the user exits and uses a list to store tasks in memory. Ideal for beginners learning Python basics like loops, conditionals, and lists.
